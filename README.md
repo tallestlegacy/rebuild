@@ -61,3 +61,5 @@ greeter-session=lightdm-yourgreeter-greeter
 ...
 ```
 
+## Resources
+[cutefish-wallpapers](https://github.com/cutefishos/wallpapers)
