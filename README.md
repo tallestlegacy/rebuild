@@ -63,3 +63,10 @@ greeter-session=lightdm-webkit2-greeter
 
 ## Resources
 [cutefish-wallpapers](https://github.com/cutefishos/wallpapers)
+
+
+
+```sh
+# add folders that contain configs for future builds of each DE/WM and folders for wallpapers
+# create a back-up for my music on google drive
+```
