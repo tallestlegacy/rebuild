@@ -57,7 +57,7 @@
 # edit /etc/lightdm/lightdm.conf
 [Seat:*]
 ...
-greeter-session=lightdm-yourgreeter-greeter
+greeter-session=lightdm-webkit2-greeter
 ...
 ```
 
